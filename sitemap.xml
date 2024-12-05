@@ -28,6 +28,13 @@
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/life/</loc>
+    <lastmod>2024-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
 </urlset>
